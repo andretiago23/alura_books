@@ -1,6 +1,9 @@
     @import url(./styles/header.css);
     @import url(./styles/banner.css);
     @import url(./styles/carrossel.css);
+    @import url(./styles/vendidos.css);
+    @import url(./styles/topicos.css);
+    @import url(./styles/rodape.css);
 
     :root {
         --cor-de-fundo: #ebecee;
@@ -21,6 +24,8 @@
         font-size: 16px;
         font-weight: 400;
     }
+
+
 
     * {
         margin: 0;

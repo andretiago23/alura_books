@@ -1,0 +1,24 @@
+.rodape {
+    background: var(--branco);
+    padding: 1.4em;
+
+}
+
+.rodape__titulo {
+    color: var(--azul);
+
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.rodape__texto {
+    font-size: 16px;
+    font-weight: 200;
+    margin: 0.8em 0 1.4em 0;
+}
+
+.rodape__pesquisa::placeholder {
+    font-size: 16px;
+
+}
